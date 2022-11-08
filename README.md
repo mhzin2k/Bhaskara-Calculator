@@ -1,7 +1,7 @@
 ## Bhaskara Calculator
 
 ```p
- - Script feito para calcular equações do 2°grau. Em Python
+ - Script feito para calcular equações do 2°grau. Feito em Python
 ```
 
 <img src="./assets/img_1.png">
